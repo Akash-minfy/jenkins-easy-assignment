@@ -1,10 +1,10 @@
 Screenshot of Jenkins dashboard<br>
-[](dashboard.png)
+![screenshot](dashboard.png)
 stageview1<br>
-[](stageView1.png)
+[screenshot](stageView1.png)
 stageview2<br>
-[](stageView2.png)
+[screenshot](stageView2.png)
 Screenshot of pipeline's successful execution (Stage View) <br>
-[](stageCombined.png)
+[screenshot](stageCombined.png)
 Screenshot of the console output <br>
-[](consoleOutput.png)
+[screenshot](consoleOutput.png)
